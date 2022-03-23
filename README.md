@@ -1,4 +1,8 @@
-### Hi there 👋
+### Привет 👋
+Андрис, разработчик Python. Закончил курс Яндекс.Практикума.  
+Стек технологий: Python 3, Django, Django REST Framework, PostgreSQL, SQLite 3, Gunicorn, Nginx, GIT, Яндекс.Облако(Ubuntu 20.04), pytest, GitHub Actions, Docker. 
+А еще: Базы данных, ООП, Алгоритмы и структуры данных, тестирование
+
 
 <!--
 **aireskais/aireskais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
